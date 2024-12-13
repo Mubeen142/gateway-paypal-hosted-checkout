@@ -1,0 +1,13 @@
+{
+  "name": "PayPalExpressCheckoutGateway",
+  "alias": "paypal_express_checkout_gateway",
+  "description": "",
+  "keywords": [],
+  "priority": 0,
+  "providers": [
+    "Modules\\PayPalExpressCheckoutGateway\\Providers\\PayPalExpressCheckoutGatewayServiceProvider"
+  ],
+  "files": [],
+  "type": "gateway",
+  "class": "Modules\\PayPalExpressCheckoutGateway\\Entities\\PayPalExpressCheckoutGateway"
+}
